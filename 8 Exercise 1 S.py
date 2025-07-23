@@ -1,0 +1,8 @@
+#Create a calculator capable of performing addition, subtraction, multiplication and division operations on two numbers. Your program should format the output in a readable manner!
+
+a = 12
+b = 3
+print("a + b is",a+b)
+print("a - b is",a-b)
+print("a * b is",a*b)
+print("a / b is",a/b)
